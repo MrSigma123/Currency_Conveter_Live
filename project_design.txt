@@ -1,0 +1,10 @@
+CURRENCY CONVERTER LIVE:
+
+The program role is simple, give real time currency values and their convertions with real time precision.
+
+Main difficultioes:
+- implement real time currency checking and update the curreny database
+
+TODO:
+- design data format
+- create algorithm to check and update the currency values
